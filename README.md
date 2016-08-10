@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is for the Data Scirnce Specialisation from John Hopkins University.
+This is for the Data Science Specialisation from John Hopkins University.
